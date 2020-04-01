@@ -12,7 +12,7 @@ export const Body = () => {
           <SignUpForm />
         </FormHolder>
         <Title>
-          <span class="quotation">"</span> How to Get Users and Admins to Love Salesforce Again. <span class="quotation">"</span></Title>
+          <span className="quotation">"</span> How to Get Users and Admins to Love Salesforce Again. <span className="quotation">"</span></Title>
         <Image />
       </ContentHolder>
       <Message2>
@@ -22,10 +22,10 @@ export const Body = () => {
         maximizing your Lightning Apps experience. Our goal is to help admins
         and users love Salesforce once again!
       </Message2>
-      <div class="card">
-        <h1 class=" title">Shift3 Technologies helps<br/> companies of all sizes manage<br/> Salesforce.</h1>
+      <div className="card">
+        <h1 className=" title">Shift3 Technologies helps<br/> companies of all sizes manage<br/> Salesforce.</h1>
         <p></p>
-        <i class="fa fa-info"></i>
+        
       </div>
     </Wrapper>
   );
