@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shift3-Salesforce/static/css/main.0ecf36f7.chunk.css",
+    "main.js": "/Shift3-Salesforce/static/js/main.8b989a57.chunk.js",
+    "main.js.map": "/Shift3-Salesforce/static/js/main.8b989a57.chunk.js.map",
+    "runtime-main.js": "/Shift3-Salesforce/static/js/runtime-main.b706ea35.js",
+    "runtime-main.js.map": "/Shift3-Salesforce/static/js/runtime-main.b706ea35.js.map",
+    "static/js/2.6f69ee64.chunk.js": "/Shift3-Salesforce/static/js/2.6f69ee64.chunk.js",
+    "static/js/2.6f69ee64.chunk.js.map": "/Shift3-Salesforce/static/js/2.6f69ee64.chunk.js.map",
+    "index.html": "/Shift3-Salesforce/index.html",
+    "precache-manifest.755573bff3addab3feb943cee296f437.js": "/Shift3-Salesforce/precache-manifest.755573bff3addab3feb943cee296f437.js",
+    "service-worker.js": "/Shift3-Salesforce/service-worker.js",
+    "static/css/main.0ecf36f7.chunk.css.map": "/Shift3-Salesforce/static/css/main.0ecf36f7.chunk.css.map",
+    "static/js/2.6f69ee64.chunk.js.LICENSE.txt": "/Shift3-Salesforce/static/js/2.6f69ee64.chunk.js.LICENSE.txt",
+    "static/media/einstein.png": "/Shift3-Salesforce/static/media/einstein.858c260d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b706ea35.js",
+    "static/js/2.6f69ee64.chunk.js",
+    "static/css/main.0ecf36f7.chunk.css",
+    "static/js/main.8b989a57.chunk.js"
+  ]
+}
